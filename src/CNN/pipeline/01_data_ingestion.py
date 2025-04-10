@@ -1,0 +1,1 @@
+from CNN.config import configuration
