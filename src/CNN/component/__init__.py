@@ -1,0 +1,1 @@
+from CNN.component.data_ingestion import DataIngestion
