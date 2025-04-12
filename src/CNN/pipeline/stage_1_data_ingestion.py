@@ -2,7 +2,7 @@ from CNN.config import ConfigurationManager
 from CNN.component import DataIngestion
 from CNN import logger
 
-class TrainingPileline:
+class DataIngestionTrainingPileline:
     def __init__(self):
         pass
 
