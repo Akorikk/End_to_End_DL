@@ -1,0 +1,1 @@
+from CNN.pipeline.stage_1_data_ingestion import TrainingPileline
